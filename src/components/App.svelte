@@ -23,7 +23,7 @@
         target="_blank"
         rel="noreferrer"
         ><img
-          src="https://sm.ms/image/JknT5QRC7uAfNZI"
+          src="https://s2.loli.net/2023/06/10/JknT5QRC7uAfNZI.png"
           alt="Happy Bithday!"
           class="w-28 md:h-[60px] md:w-[217px]"
         /></a
