@@ -19,13 +19,13 @@
     <div class="m-2 md:m-6">
       <a
         class="w-5"
-        href="https://www.buymeacoffee.com/drbracewell"
+        href=""
         target="_blank"
         rel="noreferrer"
         ><img
           src="https://s2.loli.net/2023/06/10/JknT5QRC7uAfNZI.png"
           alt="Happy Bithday!"
-          class="w-28 md:h-[60px] md:w-[217px]"
+          class="w-28 md:h-[32px] md:w-[32px]"
         /></a
       >
     </div>
