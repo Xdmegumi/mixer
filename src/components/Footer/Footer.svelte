@@ -31,8 +31,8 @@
 
     <div class="flex z-50 mx-auto mt-3 pb-5 md:m-0 md:p-5">
       <p class="mt-auto text-sm md:text-base">
-        © {new Date().getFullYear()}
-        <Link display="DrBracewell" url="https://brace.dev" />
+        {new Date().getFullYear()}
+        <Link display="08.26" />
       </p>
     </div>
   </div>
