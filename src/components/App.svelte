@@ -23,8 +23,8 @@
         target="_blank"
         rel="noreferrer"
         ><img
-          src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
-          alt="Buy Me A Coffee"
+          src="https://sm.ms/image/JknT5QRC7uAfNZI"
+          alt="Happy Bithday!"
           class="w-28 md:h-[60px] md:w-[217px]"
         /></a
       >
