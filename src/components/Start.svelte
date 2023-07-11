@@ -5,5 +5,5 @@
 </script>
 
 <div on:click={handleClick} class="flex h-screen w-full">
-  <p class="text-5xl md:text-9xl m-auto cursor-pointer">Click To Start</p>
+  <p style="font-family: 'Microsoft YaHei', sans-serif;" class="text-1xl md:text-2xl m-auto cursor-pointer">唤醒</p>
 </div>
