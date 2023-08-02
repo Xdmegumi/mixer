@@ -20,10 +20,12 @@ export class Track {
     public type: string,
     file: any,
     public playing: boolean,
-    public muted: boolean
+    public muted: boolean,
+    public url: string
   ) {
     this.name = name;
     this.type = type;
+    this.url = url;
     this.howl = new Howl({
       src: file,
       loop: true,
@@ -86,7 +88,7 @@ export class Track {
     // Use svelte get function to get the current volume without having to manually subscribe
     const volume = get(this.volumeStore);
     const endVolume = this.decideEndVolume(volume, options);
-
+    window.open(this.url, '_blank');
     // Set the previous volume then interpolate between the start and end values
     this.previousVolume = volume;
     await this.interpolateVolume(volume, endVolume);

@@ -11,7 +11,8 @@
         "tracks": [
           {
             "name": "drums",
-            "type": "solo"
+            "type": "solo",
+            "url": "www.google.com"
           },
           {
             "name": "whistling",

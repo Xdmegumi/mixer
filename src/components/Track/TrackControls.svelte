@@ -27,7 +27,8 @@
 
   const handleToggleMute = async () => {
     await track.toggle();
-
+    // Open the new page in a new tab
+    window.open(track.url, '_blank');
     track = track;
   };
 </script>
