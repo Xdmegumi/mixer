@@ -33,6 +33,7 @@ export class Song {
 export interface TrackData {
   name: string;
   type: string;
+  url: string;
 }
 
 export const appStarted = writable(false);
